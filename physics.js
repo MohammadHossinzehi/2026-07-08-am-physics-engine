@@ -1,7 +1,7 @@
 // physics.js
 // A small 2D rigid body physics engine built from scratch.
 //
-// Scope (documented design decision â see README "Design decisions"):
+// Scope (documented design decision — see README "Design decisions"):
 // this engine models LINEAR rigid body dynamics only (position, velocity,
 // mass, restitution, friction) for two shape types: circles and
 // axis aligned boxes. There is no rotational dynamics / torque. That
